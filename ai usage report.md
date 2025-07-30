@@ -1,7 +1,7 @@
 #### AI Usage Report
 
 ## AI Tools Used
-I used a combination of AI tools to accelerate the development process for this project. My primary tools were **GitHub Copilot** for code completion and in-editor suggestions, **Cursor IDE** which provided an integrated AI-powered development environment, and **v0.dev** for generating initial UI components. For broader architectural planning and debugging complex issues, I also leveraged large language models like ChatGPT.
+I used a combination of AI tools to accelerate the development process for this project. My primary tools were **GitHub Copilot** for code completion and in-editor suggestions, **Cursor IDE** which provided an integrated AI-powered development environment, and **v0.dev** for generating initial UI components. For broader architectural planning and debugging complex issues, I also leveraged large language models like ChatGPT/claude.
 
 ## Sample Prompts 
 1.  "Generate a responsive Next.js component for a testimonial carousel using Framer Motion and Shadcn/ui. It should feature a customer photo, name, role, company, rating, and a brief quote. Include navigation buttons for scrolling."
